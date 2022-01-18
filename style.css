@@ -1,0 +1,29 @@
+span
+{
+    margin: 10px;
+}
+img
+{
+    border: solid black 5px;
+}
+div
+{
+    width: 1300px;
+    background-color: white;
+    padding: 20px;
+}
+body
+{
+    background-image: url('https://i.pinimg.com/originals/9b/ee/e5/9beee5ce7fb9623cb34f08b16b2ba363.jpg');
+}
+p
+{
+    text-align: left;
+    font-family: Calibri;
+    font-size: 20px;
+}
+hr
+{
+    height: 2px;
+    background-color: black;
+}
